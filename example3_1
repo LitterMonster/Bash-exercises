@@ -1,0 +1,304 @@
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-21:38:04
+#Description:code block and I/O redirect
+File=/etc/fstab
+
+{
+    read line1
+    read line2
+} < $File
+
+echo "First line in $File is:"
+echo "$line1"
+echo 
+echo "Second line in $File is:"
+echo "$line2"
+echo 
+
+exit 0

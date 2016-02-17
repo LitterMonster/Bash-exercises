@@ -1,0 +1,20 @@
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-22:55:48
+#Description: background-loop
+for i in {1..10}
+do
+    echo -n "$i "
+    sleep 1
+done &
+
+echo
+
+for i in {11..20}
+do
+    echo -n "$i "
+    sleep 1
+done 
+
+echo
+

@@ -1,0 +1,9 @@
+#!/bin/bash
+#Author:Zhangtao
+#Date & Time: 2016-02-17-20:27:23
+#Description:Testing signal ":", ":" returns ture and its value is 0
+#":"(NOP no op, do nothing)
+while [ : ]
+do
+    echo Hello
+done
